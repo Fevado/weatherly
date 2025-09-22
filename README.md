@@ -85,9 +85,9 @@ The app will launch on your connected emulator or device.
 
 ## Screenshots
 
-| Search Screen | Weather Details | Favorites |
+| Search Screen | Weather Details | Favorites1 | Favorites2 |
 |---------------|-----------------|-----------|
-| ![Search](screenshots/search.PNG) | ![Details](screenshots/weather_details.PNG) | ![Favorites1](screenshots/favorites1.PNG) | ![Favorites2](screenshots/favorites2.PNG) |
+| ![Search](lib/screenshots/search.PNG) | ![Details](lib/screenshots/weather_details.PNG) | ![Favorites1](lib/screenshots/favorites1.PNG) | ![Favorites2](lib/screenshots/favorites2.PNG) |
 
 ## Author
 
